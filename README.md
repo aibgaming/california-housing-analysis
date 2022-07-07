@@ -1,4 +1,4 @@
-# california-housing-analysis
+# California Housing Prices Analysis
 
 ```python
 import numpy as np
